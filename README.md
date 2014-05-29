@@ -26,7 +26,7 @@ skeleton() {
   npm test
   git init
   git add .
-  git commit -a "---=[ npm skeleton ]=---"
+  git commit -am "---=[ npm skeleton ]=---"
 }
 ```
 

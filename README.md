@@ -35,3 +35,12 @@ Then pass a name for your new project:
 ```
 skeleton that-new-thang
 ```
+
+## Flavors
+
+There are different git branches now:
+
+```
+git checkout for-services
+git checkout for-packages
+```
